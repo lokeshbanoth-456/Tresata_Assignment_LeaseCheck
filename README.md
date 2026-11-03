@@ -56,3 +56,9 @@ Historical fixture results in the dashboard: 35/36 field decisions correct for t
 - `tests/test_server_api.py` — mocked local-model API contract tests (not a real model test).
 - `docs/VALIDATION.md` — evaluation interpretation and next validation plan.
 - `docs/SUBMISSION_REVIEW.md` — remaining items to review honestly before submitting.
+
+
+🧑‍💻 Author
+
+Banoth Lokesh
+Electrical Engineering
