@@ -1,0 +1,14 @@
+[
+ {"id":"G01","text":"The lease term is 36 months. Base rent is INR 45,000 per month. Rent increases by 5% annually.","gold":{"term_months":36,"monthly_rent":45000,"annual_escalation_percent":5}},
+ {"id":"G02","text":"The agreement runs for 3 years. Monthly rent: Rs. 28,500. Annual escalation: 4%.","gold":{"term_months":36,"monthly_rent":28500,"annual_escalation_percent":4}},
+ {"id":"G03","text":"Lease period: 24 months; rent payable each month is INR 60,000.","gold":{"term_months":24,"monthly_rent":60000,"annual_escalation_percent":null}},
+ {"id":"G04","text":"The initial term shall be five (5) years. Annual base rent is INR 720,000, payable monthly. Fixed annual increase is 3%.","gold":{"term_months":60,"monthly_rent":60000,"annual_escalation_percent":3}},
+ {"id":"G05","text":"The lease continues for 18 months at INR 19,000 per month. No fixed escalation is stated.","gold":{"term_months":18,"monthly_rent":19000,"annual_escalation_percent":null}},
+ {"id":"G06","text":"Term: 48 months. Monthly rent is INR 32,000 for year one and INR 33,600 from year two; this is a 5% increase.","gold":{"term_months":48,"monthly_rent":32000,"annual_escalation_percent":5}},
+ {"id":"G07","text":"The lease term is 2 years and 6 months. Rent is INR 41,000 per month, subject to CPI review.","gold":{"term_months":30,"monthly_rent":41000,"annual_escalation_percent":null}},
+ {"id":"G08","text":"A fixed term of 12 months applies. Monthly consideration is INR 25,000. There is no automatic extension.","gold":{"term_months":12,"monthly_rent":25000,"annual_escalation_percent":null}},
+ {"id":"G09","text":"The initial lease period is 7 years. Rent is INR 85,000 monthly with a fixed annual step-up of 6%.","gold":{"term_months":84,"monthly_rent":85000,"annual_escalation_percent":6}},
+ {"id":"G10","text":"Lease term: 60 months. Rent: INR 50,000 per month. A later amendment may change the rent; amendment text is not included here.","gold":{"term_months":60,"monthly_rent":50000,"annual_escalation_percent":null}},
+ {"id":"G11","text":"The contract term is 4 years. Annual rent is INR 480,000. Rent is unchanged during the contract.","gold":{"term_months":48,"monthly_rent":40000,"annual_escalation_percent":null}},
+ {"id":"G12","text":"The lease term starts on the commencement date and expires on the termination date. Monthly rent is INR 37,500.","gold":{"term_months":null,"monthly_rent":37500,"annual_escalation_percent":null}}
+]
